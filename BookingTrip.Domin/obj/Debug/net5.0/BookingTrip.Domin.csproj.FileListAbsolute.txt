@@ -1,0 +1,12 @@
+E:\BookingTripProject\BookingTrip\BookingTrip.Domin\bin\Debug\net5.0\BookingTrip.Domin.deps.json
+E:\BookingTripProject\BookingTrip\BookingTrip.Domin\bin\Debug\net5.0\BookingTrip.Domin.dll
+E:\BookingTripProject\BookingTrip\BookingTrip.Domin\bin\Debug\net5.0\ref\BookingTrip.Domin.dll
+E:\BookingTripProject\BookingTrip\BookingTrip.Domin\bin\Debug\net5.0\BookingTrip.Domin.pdb
+E:\BookingTripProject\BookingTrip\BookingTrip.Domin\obj\Debug\net5.0\BookingTrip.Domin.csproj.AssemblyReference.cache
+E:\BookingTripProject\BookingTrip\BookingTrip.Domin\obj\Debug\net5.0\BookingTrip.Domin.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookingTripProject\BookingTrip\BookingTrip.Domin\obj\Debug\net5.0\BookingTrip.Domin.AssemblyInfoInputs.cache
+E:\BookingTripProject\BookingTrip\BookingTrip.Domin\obj\Debug\net5.0\BookingTrip.Domin.AssemblyInfo.cs
+E:\BookingTripProject\BookingTrip\BookingTrip.Domin\obj\Debug\net5.0\BookingTrip.Domin.csproj.CoreCompileInputs.cache
+E:\BookingTripProject\BookingTrip\BookingTrip.Domin\obj\Debug\net5.0\BookingTrip.Domin.dll
+E:\BookingTripProject\BookingTrip\BookingTrip.Domin\obj\Debug\net5.0\ref\BookingTrip.Domin.dll
+E:\BookingTripProject\BookingTrip\BookingTrip.Domin\obj\Debug\net5.0\BookingTrip.Domin.pdb

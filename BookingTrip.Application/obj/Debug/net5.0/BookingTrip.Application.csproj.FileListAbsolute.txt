@@ -1,0 +1,17 @@
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\bin\Debug\net5.0\BookingTrip.Application.deps.json
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\bin\Debug\net5.0\BookingTrip.Application.dll
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\bin\Debug\net5.0\ref\BookingTrip.Application.dll
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\bin\Debug\net5.0\BookingTrip.Application.pdb
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\bin\Debug\net5.0\BookingTrip.Domain.dll
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\bin\Debug\net5.0\BookingTrip.Domain.pdb
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\obj\Debug\net5.0\BookingTrip.Application.csproj.AssemblyReference.cache
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\obj\Debug\net5.0\BookingTrip.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\obj\Debug\net5.0\BookingTrip.Application.AssemblyInfoInputs.cache
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\obj\Debug\net5.0\BookingTrip.Application.AssemblyInfo.cs
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\obj\Debug\net5.0\BookingTrip.Application.csproj.CoreCompileInputs.cache
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\obj\Debug\net5.0\BookingTrip.Application.csproj.CopyComplete
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\obj\Debug\net5.0\BookingTrip.Application.dll
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\obj\Debug\net5.0\ref\BookingTrip.Application.dll
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\obj\Debug\net5.0\BookingTrip.Application.pdb
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\bin\Debug\net5.0\appsettings.Development.json
+E:\BookingTripProject\BookingTrip\BookingTrip.Application\bin\Debug\net5.0\appsettings.json
